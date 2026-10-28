@@ -1,0 +1,5 @@
+v=input("Introduce la velocidad ")
+t=input("Introduce el tiempo ")
+v= float(v)
+t=float(t)
+print(f"La distancia recorrida es de {v*t:1f} m")
